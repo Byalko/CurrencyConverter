@@ -1,6 +1,6 @@
-package com.plcoding.currencyconverter.data
+package com.example.currencyconverter.data
 
-import com.plcoding.currencyconverter.data.models.CurrencyResponse
+import com.example.currencyconverter.data.models.CurrencyResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

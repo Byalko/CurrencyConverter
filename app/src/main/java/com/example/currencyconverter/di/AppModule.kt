@@ -1,7 +1,6 @@
-package com.plcoding.currencyconverter.di
+package com.example.currencyconverter.di
 
-import com.example.currencyconverter.CurrencyApplication
-import com.plcoding.currencyconverter.data.CurrencyApi
+import com.example.currencyconverter.data.CurrencyApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

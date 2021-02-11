@@ -1,4 +1,4 @@
-package com.plcoding.currencyconverter.data.models
+package com.example.currencyconverter.data.models
 
 data class Rates(
     val EUR: Double,
